@@ -1,7 +1,6 @@
 # 🏪 Dashboard Analisis Data Supermarket
 
-Dashboard ini menampilkan **analisis performa penjualan dan perilaku pelanggan** berdasarkan data transaksi dari sebuah supermarket.  
-Visualisasi dibuat untuk membantu memahami tren pembelian konsumen, pola transaksi, serta distribusi pelanggan berdasarkan kategori penting seperti **jenis kelamin, metode pembayaran, dan periode waktu**.
+Dashboard ini menampilkan **analisis performa penjualan dan perilaku pelanggan** berdasarkan data transaksi dari sebuah supermarket. Visualisasi dibuat untuk membantu memahami tren pembelian konsumen, pola transaksi, serta distribusi pelanggan berdasarkan kategori penting seperti **jenis kelamin, metode pembayaran, dan periode waktu**.
 
 ---
 
@@ -41,17 +40,14 @@ Dashboard ini dibuat untuk memberikan insight berbasis data terkait performa bis
 ---
 
 ## 💡 Kesimpulan
-Dashboard ini memberikan gambaran komprehensif tentang performa penjualan supermarket serta perilaku pelanggan.  
-Dengan memahami tren dan distribusi pelanggan, bisnis dapat menyusun strategi pemasaran yang lebih efektif, seperti promosi berbasis gender atau periode diskon pada bulan dengan performa tinggi.
+Dashboard ini memberikan gambaran komprehensif tentang performa penjualan supermarket serta perilaku pelanggan. Dengan memahami tren dan distribusi pelanggan, bisnis dapat menyusun strategi pemasaran yang lebih efektif, seperti promosi berbasis gender atau periode diskon pada bulan dengan performa tinggi.
 
 ---
 
 ## 👩‍💻 Pembuat
 **Nama:** Silvi  
-**Tools:** Google Sheets / Excel Visualization  
+**Tools:** Excel Visualization  
 **Tahun:** 2025  
 
 ---
 
-## 📄 Lisensi
-MIT License
